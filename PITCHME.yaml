@@ -1,6 +1,7 @@
 theme : night
 theme-override : assets/css/PITCHME.css
 background : assets/images/wallpaper.jpg
-logo : assets/images/logo.png
+#logo : assets/images/logo.png
+logo : assets/images/splunk_logo_white.png
 transition : none
 published : true
