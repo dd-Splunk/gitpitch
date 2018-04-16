@@ -1,6 +1,6 @@
 @title[Introduction]
 
-# Git<span class="gold">Pitch</span>
+## Git<span class="gold">Pitch</span>.
 
 #### Markdown Presentations For Everyone on Git
 <br>
